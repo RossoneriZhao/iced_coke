@@ -1,0 +1,9 @@
+{
+    "prompt0": {
+        "prompt": "A tea cup of iced coke.",
+        "first_prompt": "tea cup",
+        "first_describe": "Small, handle-equipped ceramic vessel.",
+        "second_prompt": "iced coke",
+        "second_describe": "A dark brown liquid containing ice cubes."
+    }
+}

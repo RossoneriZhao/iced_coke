@@ -1,8 +1,8 @@
 # A tea cup of iced coke
 ![image](figure/teaser.png)
-This is the official codebase for [Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models](https://ai4bio.pages.dev/publication/LCMis)
+This is the official codebase for [Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models](https://ai4bio.pages.dev/publication/LCMis). The LC-Mis concept pairs for Level 5 discovered through LLMs can be found in our [database](https://huggingface.co/datasets/Tutu1/LatentConceptMisalignment/tree/main/version1).
 
-This repository is based on [Diffusers](https://github.com/huggingface/diffusers), using the model check points it released.
+This repository is based on [Diffusers](https://github.com/huggingface/diffusers), using the model check points they released.
 
 ## Quick Demo
 You can manually adjust the proportion of steps allocated to different concepts during the diffusion models sampling process:
